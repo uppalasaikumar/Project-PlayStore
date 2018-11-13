@@ -49,12 +49,17 @@ on which category of playstore apps are mostly used by analyzing the data set,
 - For each Category what is maximum number of installs and minimum numer of installs - Sai Kumar Uppala
 - For each category what is the average rating for all applications and highest rated application - Phani Vardhan Gurram
 - For each category which application has highest number of reviews which has free downloads - Vipul Chandoor
-- For each category number of free and paid application and summation of prices of all the paid application - Anik paul gomes
 
-# Execution process:
-- After cloning the repository, open the GitBash terminal to execute the mapper and reducer respectively.
-- For running the mapper file use the command "python mapper.py"
-- After running the mapper file run the reducer file using the command "python reducer.py"
+# Big Data Solutions:
+
+Sai Kumar - Maximum and Minimum number of installations.
+- Mapper Input : Photo Editor & Candy Camera & Grid & ScrapBook	ART_AND_DESIGN	4.1	159	19M	10,000+	Free	0	Everyone	Art & Design	7-Jan-18	1.0.0	4.0.3 and up
+- Mapper Output/Reducer Input : ART_AND_DESIGN - 500,000+ 
+- Reducer Output: ART_AND_DESIGN - 500,000+ - 50,000+ 
+- Language: Python
+- Bar Chart
+
+
 
 
 
