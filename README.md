@@ -45,6 +45,17 @@ on which category of playstore apps are mostly used by analyzing the data set,
 - we are doing the project using python,so we need to install recent version of python  
 - Clone the repository and add an ndividual folders.  
 
+# Big data Questions:
+- For each Category what is maximum number of installs and minimum numer of installs - Sai Kumar Uppala
+- For each category what is the average rating for all applications and highest rated application - Phani Vardhan Gurram
+- For each category which application has highest number of reviews which has free downloads - Vipul Chandoor
+
+# Execution process:
+- After cloning the repository, open the GitBash terminal to execute the mapper and reducer respectively.
+- For running the mapper file use the command "python mapper.py"
+- After running the mapper file run the reducer file using the command "python reducer.py"
+
+
 
 
 
