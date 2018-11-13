@@ -77,6 +77,14 @@ Sai Kumar - Maximum and Minimum number of installations.
 - 2D bar chart  
 
 
+**Anik Paul Gomes - For each price, number of installs.**
+- Mapper Input:  477	Moco+ - Chat, Meet People	DATING	4.2	1545	Varies with device	10,000+	Paid	$3.99	Mature 17+	Dating	June 19, 2018	2.6.139	4.1 and up
+- Mapper output/Reducer Input: $3.99, 10,000
+- Reducer output: $3.99, 10,00000(Made up number - sum of all the 3.99$ installs)
+- Language: Python
+- Pie chart
+
+
 
 
 
