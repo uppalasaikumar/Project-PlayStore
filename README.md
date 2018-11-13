@@ -49,6 +49,7 @@ on which category of playstore apps are mostly used by analyzing the data set,
 - For each Category what is maximum number of installs and minimum numer of installs - Sai Kumar Uppala
 - For each category what is the average rating for all applications and highest rated application - Phani Vardhan Gurram
 - For each category which application has highest number of reviews which has free downloads - Vipul Chandoor
+- For each category number of free and paid application and summation of prices of all the paid application - Anik paul gomes
 
 # Execution process:
 - After cloning the repository, open the GitBash terminal to execute the mapper and reducer respectively.
