@@ -17,6 +17,11 @@ Saikumar Uppala, Phanivardhan Gurram
 
 vipul chandoor,Anik paul gomes
 
+# Links
+Repository: https://github.com/S530489/Project-PlayStore  
+Issue Tracker: https://github.com/S530489/Project-PlayStore/issues  
+
+
 # Dataset link
 
 https://www.kaggle.com/lava18/google-play-store-apps#googleplaystore.csv
