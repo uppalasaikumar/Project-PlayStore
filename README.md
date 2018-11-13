@@ -69,6 +69,13 @@ Sai Kumar - Maximum and Minimum number of installations.
 - Bar Chart
 
 
+**Vipul Chandoor - Highest Number of review for free download.**  
+- Mapper Input: Kids Paint Free - Drawing Fun	ART_AND_DESIGN	4.7	121	3.1M	10,000+	Free	0	Everyone	Art & Design;Creativity	3-Jul-18	2.8	4.0.3 and up  
+- Mapper Output/ Reducer Input: BOOKS_AND_REFERENCE, Skin Care and Natural Beauty, 91615  
+- Reducer Output: BOOKS_AND_REFERENCE, Discover Color, 2341  
+- Language: Ptyhon  
+- 2D bar chart  
+
 
 
 
