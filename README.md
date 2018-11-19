@@ -55,6 +55,7 @@ on performing differnt mapreduce jobs to anylayze the dataset to see which app c
 - For each Category what is maximum number of installs and minimum numer of installs - Sai Kumar Uppala
 - For each category what is the average rating for all applications and highest rated application - Phani Vardhan Gurram
 - For each category which application has highest number of reviews which has free downloads - Vipul Chandoor
+- For each price, the number of installs to see if the price of the application affects the downloads - Anik Paul Gomes
 
 ## Big Data Solutions:
 
