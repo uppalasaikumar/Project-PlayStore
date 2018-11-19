@@ -1,0 +1,33 @@
+ART_AND_DESIGN	20260.0	Colorfit - Drawing & Coloring
+AUTO_AND_VEHICLES	10479.0	Tickets SDA 2018 and Exam from the State Traffic Safety Inspectorate with Drom.ru
+BEAUTY	18900.0	Hush - Beauty for Everyone
+BOOKS_AND_REFERENCE	57400.0	Al Quran (Tafsir & by Word)
+BUSINESS	6997.0	CV-Library Job Search
+COMICS	24005.0	Manga Master - Best manga & comic reader
+COMMUNICATION	23707.0	SolMail - All-in-One email app
+DATING	23170.0	Glam - Premium Dating App
+EDUCATION	18372.0	Ready4 GMAT (Prep4 GMAT)
+ENTERTAINMENT	16372.0	CW Seed
+EVENTS	7074.0	Reminder
+FAMILY	167974.0	CR & CoC Private Server - Clash Barbarians PRO
+FINANCE	49275.0	Fortune City - A Finance App
+FOOD_AND_DRINK	14065.0	Recipes Pastries and homemade pies More than 500 recipes for pastries
+GAME	61746.0	AE Bingo: Offline Bingo Games
+HEALTH_AND_FITNESS	39068.0	Stop Smoking - EasyQuit free
+HOUSE_AND_HOME	6896.0	RadPad: Apartment Finder App
+LIBRARIES_AND_DEMO	7396.0	Top Popular Ringtones 2018 Free 🔥
+LIFESTYLE	20304.0	StyleSeat
+MAPS_AND_NAVIGATION	11100.0	Red Transporte DF
+MEDICAL	26862.0	Migraine Buddy - The Migraine and Headache tracker
+NEWS_AND_MAGAZINES	62740.0	Sync for reddit
+PARENTING	9073.0	Family GPS Tracker and Chat + Baby Monitor Online
+PERSONALIZATION	13466.0	Launcher Oreo 8.1
+PHOTOGRAPHY	21159.0	Groovebook Photo Books & Gifts
+PRODUCTIVITY	10672.0	Best Applock - Locker & No Ads
+SHOPPING	32014.0	Alzashop.com
+SOCIAL	37090.0	Profile Tracker - Who Viewed My Facebook Profile
+SPORTS	35394.0	MSN Sports - Scores & Schedule
+TOOLS	24985.0	WhatsVPN - Unlimited Free VPN
+TRAVEL_AND_LOCAL	20313.0	CWT To Go
+VIDEO_PLAYERS	8696.0	Ez Screen Recorder (no ad)
+WEATHER	36900.0
