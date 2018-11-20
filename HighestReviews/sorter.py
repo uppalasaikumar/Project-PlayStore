@@ -1,5 +1,5 @@
-n = open("./output/o.txt", "r",encoding="utf8")  # open file, read-only
-s = open("./output/s.txt", "w",encoding="utf8") # open file, write
+n = open("./output/o.txt", "r")  # open file, read-only
+s = open("./output/s.txt", "w") # open file, write
 lines = n.readlines()
 lines.sort()
 for line in lines:

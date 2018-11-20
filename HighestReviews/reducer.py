@@ -1,5 +1,5 @@
-s = open("./output/s.txt", "r",encoding="utf8")   
-r = open("./output/r.txt", "w",encoding="utf8")   
+s = open("./output/s.txt", "r")   
+r = open("./output/r.txt", "w")   
 
 thisKey = ""
 thisValue = 0.0
