@@ -89,7 +89,8 @@ Sai Kumar - Maximum and Minimum number of installations.
 - Mapper output/Reducer Input: $3.99, 10,000
 - Reducer output: $3.99, 10,00000(Made up number - sum of all the 3.99$ installs)
 - Language: Python
-- Pie chart
+- Histogram
+
 
 
 
