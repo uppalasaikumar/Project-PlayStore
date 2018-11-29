@@ -66,6 +66,14 @@ Sai Kumar - Maximum and Minimum number of installations.
 - Language: Python
 - Bar Chart
 
+**Bar Chart Screenshot**
+![min_maxbarchart](https://user-images.githubusercontent.com/31738776/49255319-4e3ba600-f3f1-11e8-8358-5ca00d830799.PNG)
+
+**Mapper.py Output Screenshot**
+![minmax_sorteroutput](https://user-images.githubusercontent.com/31738776/49255318-4e3ba600-f3f1-11e8-9cbf-806ddb254d47.PNG)
+
+**Reducer.py Output Screenshot**
+![minmax_reduceroutput](https://user-images.githubusercontent.com/31738776/49255317-4da30f80-f3f1-11e8-808e-f38abedaa788.PNG)
 
 **Phanivardhan Gurram - average rating for all applications and highest rated application.**
 - Mapper Input :Smoke Effect Photo Maker - Smoke Editor	ART_AND_DESIGN	3.8	178	19M	50,000+	Free	0	Everyone	Art & Design	26-Apr-18	1.1	4.0.3 and up
@@ -75,6 +83,21 @@ Sai Kumar - Maximum and Minimum number of installations.
 - Language: Python
 - Bar Chart
 
+**Bar Chart Screenshot**
+
+This is the output Bar graph for the map reduce problem.
+
+![phanioutputgraph](https://user-images.githubusercontent.com/31742627/49255233-0452c000-f3f1-11e8-8503-02fb763e9bab.PNG)
+
+**Mapper.py Output Screenshot**
+
+This the mapper output for the map reduce problem
+![phanimapper](https://user-images.githubusercontent.com/31742627/49254740-ab365c80-f3ef-11e8-8efc-3ed6f0d566c8.PNG)
+
+**Reducer.py Output Screenshot**
+
+This is the reducer output for the map reduce problem.
+![phanireducer](https://user-images.githubusercontent.com/31742627/49255115-a45c1980-f3f0-11e8-9e0c-f8be3ac1f05c.PNG)
 
 **Vipul Chandoor - Highest Number of review for free download.**  
 - Mapper Input: Kids Paint Free - Drawing Fun	ART_AND_DESIGN	4.7	121	3.1M	10,000+	Free	0	Everyone	Art & Design;Creativity	3-Jul-18	2.8	4.0.3 and up  
@@ -83,13 +106,19 @@ Sai Kumar - Maximum and Minimum number of installations.
 - Language: Ptyhon  
 - 2D bar chart  
 
+**Bar Chart Screenshot**
+
+**Mapper.py Output Screenshot**
+
+**Reducer.py Output Screenshot**
 
 **Anik Paul Gomes - For each price, number of installs.**
 - Mapper Input:  477	Moco+ - Chat, Meet People	DATING	4.2	1545	Varies with device	10,000+	Paid	$3.99	Mature 17+	Dating	June 19, 2018	2.6.139	4.1 and up
 - Mapper output/Reducer Input: $3.99, 10,000
 - Reducer output: $3.99, 10,00000(Made up number - sum of all the 3.99$ installs)
 - Language: Python
-- Pie chart
+- Histogram
+
 
 
 
