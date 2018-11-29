@@ -48,8 +48,17 @@ on performing differnt mapreduce jobs to anylayze the dataset to see which app c
 - **VALUE**    : we can extract a numeric value output from the dataset  
 
 ## setup instructions:
-- we are doing the project using python,so we need to install recent version of python  
-- Clone the repository and add an ndividual folders.  
+- we are doing the project using python,so install the recent version of python  
+- Clone the repository.
+- We worked on 4 Big data problems each have seperate folder which includes mapper.py, reducer.py and sorter.py
+- First run mapper then sorter and reducer
+- Command to run Mapper: python mapper.py
+- output of the mapper.py will be saved to output folder.
+- Command to run Sorter: python reducer.py
+- output of the sorter.py will be saved to output folder.
+- Command to run Reducer: python reducer.py
+- output of the mappe.pyr will be saved to output folder.
+
 
 ## Big data Questions:
 - For each Category what is maximum number of installs and minimum numer of installs - Sai Kumar Uppala
