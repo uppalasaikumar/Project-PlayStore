@@ -66,7 +66,7 @@ Sai Kumar - Maximum and Minimum number of installations.
 - Language: Python
 - Bar Chart
 
-**Bar Chart Screenshot**
+**Bar Chart Screenshot**    
 ![min_maxbarchart](https://user-images.githubusercontent.com/31738776/49255319-4e3ba600-f3f1-11e8-8358-5ca00d830799.PNG)
 
 **Mapper.py Output Screenshot**
@@ -106,11 +106,20 @@ This is the reducer output for the map reduce problem.
 - Language: Ptyhon  
 - 2D bar chart  
 
-**Bar Chart Screenshot**
+**Bar Chart Screenshot**  
 
-**Mapper.py Output Screenshot**
+![maximumreviewsscreenshot](https://user-images.githubusercontent.com/36544701/49255914-f9009400-f3f2-11e8-91f2-63568a025669.PNG)
 
-**Reducer.py Output Screenshot**
+
+**Mapper.py Output Screenshot**  
+
+![2](https://user-images.githubusercontent.com/36544701/49255871-df5f4c80-f3f2-11e8-98f5-b3b15838b855.PNG)
+
+
+**Reducer.py Output Screenshot**  
+
+![3](https://user-images.githubusercontent.com/36544701/49255896-ed14d200-f3f2-11e8-9fa1-e68a62fa7e34.PNG)
+
 
 **Anik Paul Gomes - For each price, number of installs.**
 - Mapper Input:  477	Moco+ - Chat, Meet People	DATING	4.2	1545	Varies with device	10,000+	Paid	$3.99	Mature 17+	Dating	June 19, 2018	2.6.139	4.1 and up
