@@ -15,7 +15,7 @@ for line in s:
         if Category != thisKey: # for 
             
             if thisKey and thisKey!="": 
-                r.write(thisKey + '\t' + str(highest_Rating) +'\t'+ str(sum/count)+ '\n')
+                r.write(thisKey + '\t' + str(highest_Rating) +'\t'+ str(round(sum/count,2))+ '\n')
                 # print Category+'\t'+'Maximum: '+str(highest_Rating)+'\t'+'Minumum: ' +str(minValue)
             thisKey = Category # initializing values to default again
             thisValue = 0.0 
