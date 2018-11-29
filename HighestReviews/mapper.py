@@ -7,8 +7,8 @@ for line in f:
     # print(data)
     # if count > 2:
     #     breakcd
-    if len(data) == 15:
-        App,Category,Rating,Reviews,Size,Installs,Install_tail,Type,Price,Content_Rating,Genres,Last_Updated,Last_Updated_tail,Current_Ver,Android_Ver = data
+    if len(data) == 13:
+        App, Category, Rating, Reviews, size, installs, Type, Price, contentRating, genres, lastUpdated, currentVer, AndroidVer = data
         # print(int(Price) == 0)
         if Price == '0':
             if '"' in Category:
