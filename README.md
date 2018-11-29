@@ -82,7 +82,11 @@ Sai Kumar - Maximum and Minimum number of installations.
 
 **Bar Chart Screenshot**
 
+
 **Mapper.py Output Screenshot**
+
+This the mapper output for the map reduce problem
+![phanimapper](https://user-images.githubusercontent.com/31742627/49254740-ab365c80-f3ef-11e8-8efc-3ed6f0d566c8.PNG)
 
 **Reducer.py Output Screenshot**
 
