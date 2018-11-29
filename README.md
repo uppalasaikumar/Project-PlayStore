@@ -89,6 +89,8 @@ This the mapper output for the map reduce problem
 ![phanimapper](https://user-images.githubusercontent.com/31742627/49254740-ab365c80-f3ef-11e8-8efc-3ed6f0d566c8.PNG)
 
 **Reducer.py Output Screenshot**
+this is the reducer output for the map reduce problem
+![phanireducer](https://user-images.githubusercontent.com/31742627/49255115-a45c1980-f3f0-11e8-9e0c-f8be3ac1f05c.PNG)
 
 **Vipul Chandoor - Highest Number of review for free download.**  
 - Mapper Input: Kids Paint Free - Drawing Fun	ART_AND_DESIGN	4.7	121	3.1M	10,000+	Free	0	Everyone	Art & Design;Creativity	3-Jul-18	2.8	4.0.3 and up  
