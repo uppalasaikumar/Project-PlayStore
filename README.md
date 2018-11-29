@@ -67,10 +67,13 @@ Sai Kumar - Maximum and Minimum number of installations.
 - Bar Chart
 
 **Bar Chart Screenshot**
+![min_maxbarchart](https://user-images.githubusercontent.com/31738776/49255319-4e3ba600-f3f1-11e8-8358-5ca00d830799.PNG)
 
 **Mapper.py Output Screenshot**
+![minmax_sorteroutput](https://user-images.githubusercontent.com/31738776/49255318-4e3ba600-f3f1-11e8-9cbf-806ddb254d47.PNG)
 
 **Reducer.py Output Screenshot**
+![minmax_reduceroutput](https://user-images.githubusercontent.com/31738776/49255317-4da30f80-f3f1-11e8-808e-f38abedaa788.PNG)
 
 **Phanivardhan Gurram - average rating for all applications and highest rated application.**
 - Mapper Input :Smoke Effect Photo Maker - Smoke Editor	ART_AND_DESIGN	3.8	178	19M	50,000+	Free	0	Everyone	Art & Design	26-Apr-18	1.1	4.0.3 and up
