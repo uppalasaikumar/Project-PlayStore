@@ -1,4 +1,4 @@
-s = open("./output/o.txt", "r")    # open file, read-only
+s = open("./output/s.txt", "r")    # open file, read-only
 r = open("./output/r.txt", "w")   # open file, write
 
 thisKey = ""
