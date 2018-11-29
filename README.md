@@ -66,11 +66,11 @@ Sai Kumar - Maximum and Minimum number of installations.
 - Language: Python
 - Bar Chart
 
-*Bar Chart Screenshot
+**Bar Chart Screenshot
 
-*Mapper.py Output Screenshot
+**Mapper.py Output Screenshot
 
-*Reducer.py Output Screenshot
+**Reducer.py Output Screenshot
 
 **Phanivardhan Gurram - average rating for all applications and highest rated application.**
 - Mapper Input :Smoke Effect Photo Maker - Smoke Editor	ART_AND_DESIGN	3.8	178	19M	50,000+	Free	0	Everyone	Art & Design	26-Apr-18	1.1	4.0.3 and up
@@ -80,11 +80,11 @@ Sai Kumar - Maximum and Minimum number of installations.
 - Language: Python
 - Bar Chart
 
-*Bar Chart Screenshot
+**Bar Chart Screenshot
 
-*Mapper.py Output Screenshot
+**Mapper.py Output Screenshot
 
-*Reducer.py Output Screenshot
+**Reducer.py Output Screenshot
 
 **Vipul Chandoor - Highest Number of review for free download.**  
 - Mapper Input: Kids Paint Free - Drawing Fun	ART_AND_DESIGN	4.7	121	3.1M	10,000+	Free	0	Everyone	Art & Design;Creativity	3-Jul-18	2.8	4.0.3 and up  
@@ -93,11 +93,11 @@ Sai Kumar - Maximum and Minimum number of installations.
 - Language: Ptyhon  
 - 2D bar chart  
 
-*Bar Chart Screenshot
+**Bar Chart Screenshot
 
-*Mapper.py Output Screenshot
+**Mapper.py Output Screenshot
 
-*Reducer.py Output Screenshot
+**Reducer.py Output Screenshot
 
 **Anik Paul Gomes - For each price, number of installs.**
 - Mapper Input:  477	Moco+ - Chat, Meet People	DATING	4.2	1545	Varies with device	10,000+	Paid	$3.99	Mature 17+	Dating	June 19, 2018	2.6.139	4.1 and up
