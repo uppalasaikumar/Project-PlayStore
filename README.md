@@ -82,6 +82,9 @@ Sai Kumar - Maximum and Minimum number of installations.
 
 **Bar Chart Screenshot**
 
+This is the output Bar graph for the map reduce problem.
+
+![phanioutputgraph](https://user-images.githubusercontent.com/31742627/49255233-0452c000-f3f1-11e8-8503-02fb763e9bab.PNG)
 
 **Mapper.py Output Screenshot**
 
@@ -89,7 +92,8 @@ This the mapper output for the map reduce problem
 ![phanimapper](https://user-images.githubusercontent.com/31742627/49254740-ab365c80-f3ef-11e8-8efc-3ed6f0d566c8.PNG)
 
 **Reducer.py Output Screenshot**
-this is the reducer output for the map reduce problem
+
+This is the reducer output for the map reduce problem.
 ![phanireducer](https://user-images.githubusercontent.com/31742627/49255115-a45c1980-f3f0-11e8-9e0c-f8be3ac1f05c.PNG)
 
 **Vipul Chandoor - Highest Number of review for free download.**  
