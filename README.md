@@ -142,7 +142,7 @@ This is the reducer output for the map reduce problem.
 |--------------------------------------------------|----------------|--------|---------|------|----------|------|-------|----------------|--------------|--------------|-------------|--------------|
 | Photo Editor & Candy Camera &   Grid & ScrapBook | ART_AND_DESIGN | 4.1 | 159 | 19M | 10000 | Free | 0 | Everyone | Art & Design | 7-Jan-18 | 1.0.0 | 4.0.3 and up |
 
-- **Mapper output/Reducer Input - ** Key: Price, Value: Number of installs (For example: $3.99, 10,000)
+- **Mapper output/Reducer Input -** Key: Price, Value: Number of installs (For example: $3.99, 10,000)
 - **Mapper Code**
 ```
 import csv
@@ -174,7 +174,7 @@ c.close()
 
 #### Reducer 
 - **Reducer output -** Key: Price, Value: Sum of all installs of that corresponding price (For example: $3.99, 2239251)
-- **Reducer code: **
+- **Reducer code:**
 ```o = open("./output/readyForReducer.txt", "r")                             #open file in readonly mode
 s = open("./output/result.txt", "w")                                      #opens file in writeonly more
 
@@ -205,8 +205,13 @@ if oldKey != None:                                                      #prints 
 - **Screenshot of reducer output**
 ![Reducer Output Screenshot](https://github.com/S530489/Project-PlayStore/blob/master/priceVsInstalls/output/image/reducerOutputScreenshot.PNG "Reducer output screenshot")
 
-#### Result of MapReduce job 
+#### MapReduce result in a Historgram chart  
 ![PriceVsInstallHistogram](https://github.com/S530489/Project-PlayStore/blob/master/priceVsInstalls/output/image/priceVsInstalls.PNG "Histogram chart of number of installs in a price range")
+
+```
+The visual representation of the map-reduce output indicates that the applications with lower price have more frequent installs. Applications with mid-range prices have a very lower number of installs. However, The higher price range ($370.00 - $444.00) have a slightly more number of installs then mid-range price application. These may be because of the quality of the applications. 
+
+```
 
 
 
