@@ -208,7 +208,7 @@ if oldKey != None:                                                      #prints 
 #### MapReduce result in a Historgram chart  
 ![PriceVsInstallHistogram](https://github.com/S530489/Project-PlayStore/blob/master/priceVsInstalls/output/image/priceVsInstalls.PNG "Histogram chart of number of installs in a price range")
 
-The visual representation of the map-reduce output indicates that the applications with lower price have more frequent installs. Applications with mid-range prices have a very lower number of installs. However, The higher price range ($370.00 - $444.00) have a slightly more number of installs then mid-range price application. These may be because of the quality of the applications. 
+The visual representation of the map-reduce output indicates that the applications with lower price have more frequent installs. Applications with mid-range price have a very lower number of installs. However, The higher price range ($370.00 - $444.00) have a slightly more number of installs then mid-range price applications. This may be because of the quality of the applications. 
 
 
 
