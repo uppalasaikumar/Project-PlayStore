@@ -130,18 +130,21 @@ This is the reducer output for the map reduce problem.
 ![3](https://user-images.githubusercontent.com/36544701/49255896-ed14d200-f3f2-11e8-9fa1-e68a62fa7e34.PNG)
 
 
-**Anik Paul Gomes - For each price, number of installs.**
+## Anik Paul Gomes 
+- Question: For each price, number of installs.
 - Language: Python
-- Mapper Input:  
-| App                                              | Category       | Rating | Reviews | Size | Installs | Type | Price | Content Rating | Genres       | Last Updated | Current Ver | Android Ver  |
-|--------------------------------------------------|----------------|--------|---------|------|----------|------|-------|----------------|--------------|--------------|-------------|--------------|
-| Photo Editor & Candy Camera &   Grid & ScrapBook | ART_AND_DESIGN | 4.1    | 159     | 19M  | 10000    | Free | 0     | Everyone       | Art & Design | 7-Jan-18     | 1.0.0       | 4.0.3 and up |
-- Mapper output/Reducer Input: 
-Key: Price, Value: Number of installs
-(For example: $3.99, 10,000)
-- Mapper Code
-```
 
+#### Mapper
+
+- **Mapper Input:**  
+
+| App | Category | Rating | Reviews | Size | Installs | Type | Price | Content Rating | Genres | Last Updated | Current Ver | Android Ver |
+|--------------------------------------------------|----------------|--------|---------|------|----------|------|-------|----------------|--------------|--------------|-------------|--------------|
+| Photo Editor & Candy Camera &   Grid & ScrapBook | ART_AND_DESIGN | 4.1 | 159 | 19M | 10000 | Free | 0 | Everyone | Art & Design | 7-Jan-18 | 1.0.0 | 4.0.3 and up |
+
+- **Mapper output/Reducer Input - ** Key: Price, Value: Number of installs (For example: $3.99, 10,000)
+- **Mapper Code**
+```
 import csv
 
 c = open("./output/mapperOutput.txt", "w")                                       # opening the file to write
@@ -161,11 +164,17 @@ c.close()
 ```
 - Run the mapper with ***python mapper.py*** command.
 - It will produce a text file named mapperOutput.txt in the output folder.
-- Screenshot of MapperOutput 
+- **Screenshot of MapperOutput**
+![Mapper Output Screenshot](https://github.com/S530489/Project-PlayStore/blob/master/priceVsInstalls/output/image/mapperOutputScreenshot.PNG "Mapper output screenshot")
+
+#### Sort
+
 - To sort the mapper output, use command ***python sorter.py***.
-- it will produce a sorted file named readyForReducer.txt in the output folder.
-- Reducer output: Key: Price, Value: Sum of all installs of that corresponding price (For example: $3.99, 2239251)
-- Reducer code:
+- It will produce a sorted file named readyForReducer.txt in the output folder.
+
+#### Reducer 
+- **Reducer output -** Key: Price, Value: Sum of all installs of that corresponding price (For example: $3.99, 2239251)
+- **Reducer code: **
 ```o = open("./output/readyForReducer.txt", "r")                             #open file in readonly mode
 s = open("./output/result.txt", "w")                                      #opens file in writeonly more
 
@@ -193,8 +202,10 @@ if oldKey != None:                                                      #prints 
 ```
 - Run the mapper with ***python reducer.py*** command.
 - It will produce a text file named results.txt in the output folder.
-- Screenshot of reducer output
-- Histogram
+- **Screenshot of reducer output**
+![Reducer Output Screenshot](https://github.com/S530489/Project-PlayStore/blob/master/priceVsInstalls/output/image/reducerOutputScreenshot.PNG "Reducer output screenshot")
+
+#### Result of MapReduce job 
 ![PriceVsInstallHistogram](https://github.com/S530489/Project-PlayStore/blob/master/priceVsInstalls/output/image/priceVsInstalls.PNG "Histogram chart of number of installs in a price range")
 
 
