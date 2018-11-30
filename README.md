@@ -195,7 +195,7 @@ if oldKey != None:                                                      #prints 
 - It will produce a text file named results.txt in the output folder.
 - Screenshot of reducer output
 - Histogram
-![PriceVsInstallHistogram](output/images/priceVsInstalls.PNG "Histogram chart of number of installs in a price range")
+![PriceVsInstallHistogram](output/image/priceVsInstalls.PNG "Histogram chart of number of installs in a price range")
 
 
 
