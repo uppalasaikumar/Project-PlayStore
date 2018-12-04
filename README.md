@@ -117,8 +117,7 @@ This is the reducer output for the map reduce problem.
 
 **Bar Chart Screenshot**  
 
-![maximumreviewsscreenshot](https://user-images.githubusercontent.com/36544701/49255914-f9009400-f3f2-11e8-91f2-63568a025669.PNG)
-
+![graph](https://user-images.githubusercontent.com/36544701/49472787-f24c9500-f7d5-11e8-9928-bb27ae352b04.PNG)
 
 **Mapper.py Output Screenshot**  
 
