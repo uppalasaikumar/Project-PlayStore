@@ -54,7 +54,7 @@ on performing differnt mapreduce jobs to anylayze the dataset to see which app c
 - First run mapper then sorter and reducer
 - Command to run Mapper: python mapper.py
 - output of the mapper.py will be saved to output folder.
-- Command to run Sorter: python reducer.py
+- Command to run Sorter: python sorter.py
 - output of the sorter.py will be saved to output folder.
 - Command to run Reducer: python reducer.py
 - output of the mappe.pyr will be saved to output folder.
