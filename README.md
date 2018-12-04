@@ -76,7 +76,7 @@ Sai Kumar - Maximum and Minimum number of installations.
 - Bar Chart
 
 **Bar Chart Screenshot**    
-![min_maxbarchart](https://user-images.githubusercontent.com/31738776/49255319-4e3ba600-f3f1-11e8-8358-5ca00d830799.PNG)
+![min_maxbarchart](https://user-images.githubusercontent.com/31738776/49472591-705c6c00-f7d5-11e8-8c2d-77dc6e5cd954.PNG)
 
 **Mapper.py Output Screenshot**
 ![minmax_sorteroutput](https://user-images.githubusercontent.com/31738776/49255318-4e3ba600-f3f1-11e8-9cbf-806ddb254d47.PNG)
