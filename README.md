@@ -209,6 +209,8 @@ if oldKey != None:                                                      #prints 
 
 The visual representation of the map-reduce output indicates that the applications with lower price have more frequent installs. Applications with mid-range price have a very lower number of installs. However, The higher price range ($390.01 - $420.00) have a slightly more number of installs then mid-range price applications. This may be because of the quality of the applications. 
 
+[Addition MapReduce](https://github.com/paul-gomes/GunViolenceMapreduce)
+
 
 
 
