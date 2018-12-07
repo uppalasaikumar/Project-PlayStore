@@ -15,4 +15,3 @@ with open("../Data/googleplaystore.csv", "rb") as csvFile:                      
         line_count += 1
 
 c.close()
-#

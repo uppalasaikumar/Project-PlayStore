@@ -5,6 +5,7 @@ s = open("./output/result.txt", "w")                                      #opens
 
 totalInstalls = 0
 oldKey = None
+startOfBucket = 0
 
 
 for line in o:                                                           #loops through file and read each lines
@@ -12,15 +13,22 @@ for line in o:                                                           #loops 
     if len(data_mapped) != 2:                                            #if more than one cloumns, skips
         continue
     thisKey, thisInstall = data_mapped
-
-    if oldKey and oldKey != thisKey:                                     #only writes the first time and when the key changes
-        s.write(oldKey + "\t" + str(totalInstalls) + "\n")
+    thisKey = float(thisKey)
+    if(oldKey !=None and startOfBucket == 0  and thisKey != 0.0):
+        s.write(str(startOfBucket) + "\t" + str(totalInstalls) + "\n")
+        startOfBucket = 0.1
         oldKey = thisKey
         totalInstalls = 0
+
+    if (oldKey and thisKey > (startOfBucket + 30)):                                     #only writes the first time and when the key changes
+        s.write(str(startOfBucket) +"-"+ str(startOfBucket + 30 - 0.1) + "\t" + str(totalInstalls) + "\n")
+        oldKey = thisKey
+        totalInstalls = 0
+        startOfBucket += 30
 
     oldKey = thisKey
     totalInstalls += long(thisInstall)
 
 if oldKey != None:                                                      #prints the last time
-    s.write(oldKey + "\t" + str(totalInstalls) + "\n")
+    s.write(str(startOfBucket) + "-" + str(startOfBucket + 30 - 0.1) + "\t" + str(totalInstalls) + "\n")
 
